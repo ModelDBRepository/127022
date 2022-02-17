@@ -71,7 +71,7 @@ r'=(rinf(v)-r)/taur(v)
 #
 # xpp formatting
 @ XP=t
-@ YP=vs
+@ YP=v
 @ TOTAL=3000,DT=0.01
 @ MAXSTOR=8000000,BOUNDS=10000,method=runge-kutta
 @ xlo=0,xhi=3000,ylo=-92,yhi=53
@@ -79,7 +79,7 @@ r'=(rinf(v)-r)/taur(v)
 @ NTST=250,NMAX=55000,NPR=50
 @ DS=0.2,DSMIN=0.001,DSMAX=0.3
 @ PARMIN=-30,PARMAX=400,NORMMIN=0.0,NORMMAX=10000.0
-@ AUTOVAR=vs,AUTOXMIN=-25.0,AUTOXMAX=400.0,AUTOYMIN=-80.0,AUTOYMAX=55.0
+@ AUTOVAR=v,AUTOXMIN=-25.0,AUTOXMAX=400.0,AUTOYMIN=-80.0,AUTOYMAX=55.0
 
 
 
