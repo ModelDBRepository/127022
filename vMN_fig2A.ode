@@ -68,7 +68,7 @@ r'=(rinf(v)-r)/taur(v)
 @ XP=t
 @ YP=vs
 @ TOTAL=1200,DT=0.01
-@ MAXSTOR=8000000,BOUNDS=10000,method=runge-kutta
+@ MAXSTOR=8000000,BOUNDS=10000,method=rungekutta
 @ xlo=0,xhi=1200,ylo=-92,yhi=53
 #
 @ NTST=250,NMAX=55000,NPR=50
